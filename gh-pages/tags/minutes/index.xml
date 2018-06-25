@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minutes on anzstat</title>
+    <link>/anzstat/tags/minutes/</link>
+    <description>Recent content in Minutes on anzstat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jun 2018 23:30:12 +0000</lastBuildDate>
+    
+	<atom:link href="/anzstat/tags/minutes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minutes</title>
+      <link>/anzstat/minutes/</link>
+      <pubDate>Sun, 24 Jun 2018 23:30:12 +0000</pubDate>
+      
+      <guid>/anzstat/minutes/</guid>
+      <description>This section lists all available agenda and minutes from SSA NSW Branch Council meetings.
+2018  April: Agenda, Minutes May: Agenda, Minutes June: Agenda   2017  April: Agenda, Minutes May: Agenda, Minutes June: Agenda, Minutes July: Agenda, Minutes August: Agenda, Minutes September: Agenda, Minutes October: Agenda   2016  March: Minutes April: Agenda, Minutes May: Agenda, Minutes June: Agenda, Minutes July: Agenda, Minutes August: Agenda, Minutes October: Agenda, Minutes   2015  May: Agenda, Minutes June: Agenda October: Minutes   </description>
+    </item>
+    
+    <item>
+      <title>Minutes</title>
+      <link>/anzstat/minutes/</link>
+      <pubDate>Sun, 24 Jun 2018 23:29:58 +0000</pubDate>
+      
+      <guid>/anzstat/minutes/</guid>
+      <description>This section lists all available agenda and minutes from SSA NSW Branch Council meetings.
+2018  April: Agenda, Minutes May: Agenda, Minutes June: Agenda   2017  April: Agenda, Minutes May: Agenda, Minutes June: Agenda, Minutes July: Agenda, Minutes August: Agenda, Minutes September: Agenda, Minutes October: Agenda   2016  March: Minutes April: Agenda, Minutes May: Agenda, Minutes June: Agenda, Minutes July: Agenda, Minutes August: Agenda, Minutes October: Agenda, Minutes   2015  May: Agenda, Minutes June: Agenda October: Minutes   </description>
+    </item>
+    
+  </channel>
+</rss>

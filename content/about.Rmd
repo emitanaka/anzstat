@@ -1,0 +1,17 @@
+---
+title: About
+author: ""
+date: "`r Sys.time()`"
+slug: about
+categories: []
+tags: []
+summary: ""
+---
+
+**anzstat** is a statistic mailing list for the Australia and New Zealand region. The list has been in operation since August 1995. More details and how to subscribe to the mailing list can be found [here](http://www.maths.uq.edu.au/research/research_centres/anzstat/).
+
+There has been some recognition that mailing list alone may be insufficient to serve the needs of the community. Alternative approaches have been discussed, including a [Facebook group](https://www.facebook.com/groups/1982734678722277/), discussion boards and messaging platform such as slack. There is no general agreement for the format and one particular concern is that this will divide the community. 
+
+The anzstat slack channel has been set up to *supplement* the existing mailing list. Everyone is encouraged to continue using the anzstat mailing list. The anzstat slack channel aims to be a fun and casual environment to discuss matters that may be of an interest to the statistics community. It is anticipated that this format will generally appeal to the younger people (or those young in heart!) which is important for the anzstat community to thrive well into the future. 
+
+

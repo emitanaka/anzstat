@@ -1,0 +1,23 @@
+---
+title: Frequently Asked Questions
+author: ""
+date: "`r Sys.time()`"
+slug: faq
+categories: []
+tags: []
+summary: ""
+---
+
+This page lists some potential questions. If you believe there should be others added, please mention this in the `#feedback` channel in slack.
+
+### How do I join the anzstat slack channel?
+
+The invite link was shared on the anzstat mailing list. The invite link may be disseminated time after time there or you may send a mail to the anzstat mailing list requesting the invite link. 
+
+### I am seeing some bad behaviour in the slack channel. What do I do?
+
+Please report such incidences to [dr.emi.tanaka (at) gmail.com](mailto:dr.emi.tanaka@gmail.com). Anyone found to be violating the code of conduct will be asked to leave.
+
+### How is this website made?
+
+This website is made by using the R package `blogdown` using the [Hyde theme](https://github.com/spf13/hyde) and hosted on github pages. You can see all the code [here](https://github.com/emitanaka/anzstat).  

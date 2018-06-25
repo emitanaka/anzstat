@@ -1,0 +1,36 @@
+theme = "hyde"
+baseURL = "https://emitanaka.github.io/anzstat/"
+languageCode = "en-us"
+title = "anzstat"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  description = "General guidelines for the anzstat slack channel"
+	themeColor = "theme-base-09"
+
+
+[params.menus]
+[[menu.main]]
+  name = "About"
+  url = "https://emitanaka.github.io/anzstat/about"
+  weight = 1
+  
+[[menu.main]]
+  name = "What is Slack?"
+  url = "https://emitanaka.github.io/anzstat/slack"
+  weight = 2
+
+[[menu.main]]
+  name = "Code of Conduct"
+  url = "https://emitanaka.github.io/SSANSW/conduct"
+  weight = 3
+
+[[menu.main]]
+  name = "How to Contribute"
+  url = "https://emitanaka.github.io/anzstat/contribute"
+  weight = 4
+
+[[menu.main]]
+  name = "Frequently Asked Questions"
+  url = "https://emitanaka.github.io/anzstat/faq"
+  weight = 5

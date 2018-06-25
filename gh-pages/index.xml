@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anzstat</title>
+    <link>/anzstat/</link>
+    <description>Recent content on anzstat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jun 2018 00:44:53 +0000</lastBuildDate>
+    
+	<atom:link href="/anzstat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Slack?</title>
+      <link>/anzstat/slack/</link>
+      <pubDate>Mon, 25 Jun 2018 00:44:53 +0000</pubDate>
+      
+      <guid>/anzstat/slack/</guid>
+      <description>Slack is a messaging platform. This is best explained by some demonstrations.
+Getting Started Everyone who joins will be greeted by a slackbot that will explain the general features of how to use slack and also a greetbot. The current message in greetbot will display This greeting may be subject to change after community input.
+ Channel There are various channels that people can join. Everyone is in the general, random and jobandopportunities channel.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>/anzstat/conduct/</link>
+      <pubDate>Mon, 25 Jun 2018 00:23:52 +0000</pubDate>
+      
+      <guid>/anzstat/conduct/</guid>
+      <description>Everyone in the slack channel is expected to behave professionally and appropriately at all times. Professional and appropriate behaviour involves scientific and ethical integrity, respectful conduct towards others regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearances, race, religion (or lack thereof) or technology choices. We do not tolerate harassment, sexual or otherwise, by anyone. Anyone violating these rules may be expelled from the slack channel.</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>/anzstat/faq/</link>
+      <pubDate>Mon, 25 Jun 2018 00:18:46 +0000</pubDate>
+      
+      <guid>/anzstat/faq/</guid>
+      <description>This page lists some potential questions. If you believe there should be others added, please mention this in the #feedback channel in slack.
+How do I join the anzstat slack channel? The invite link was shared on the anzstat mailing list. The invite link may be disseminated time after time there or you may send a mail to the anzstat mailing list requesting the invite link.
+ I am seeing some bad behaviour in the slack channel.</description>
+    </item>
+    
+    <item>
+      <title>How to Contribute</title>
+      <link>/anzstat/contribute/</link>
+      <pubDate>Mon, 25 Jun 2018 00:18:33 +0000</pubDate>
+      
+      <guid>/anzstat/contribute/</guid>
+      <description>Thank you for thinking about contributing! Any community driven projects are generally done in a volunteer basis so whether it works well or not is all up to people who generously volunteer their time and effort.
+For a long-term sustainability, the expectation is that community will largely self-regulate. There is a general expectation that any ideas, suggestions or feedbacks will be discussed in the #feedback channel in slack.
+For the contribution to this website, you may like to raise issues in the github repositary or make pull requests.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/anzstat/about/</link>
+      <pubDate>Mon, 25 Jun 2018 00:11:57 +0000</pubDate>
+      
+      <guid>/anzstat/about/</guid>
+      <description>anzstat is a statistic mailing list for the Australia and New Zealand region. The list has been in operation since August 1995. More details and how to subscribe to the mailing list can be found here.
+There has been some recognition that mailing list alone may be insufficient to serve the needs of the community. Alternative approaches have been discussed, including a Facebook group, discussion boards and messaging platform such as slack.</description>
+    </item>
+    
+  </channel>
+</rss>
