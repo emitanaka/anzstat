@@ -22,7 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
   name = "Code of Conduct"
-  url = "https://emitanaka.github.io/SSANSW/conduct"
+  url = "https://emitanaka.github.io/anzstat/conduct"
   weight = 3
 
 [[menu.main]]
